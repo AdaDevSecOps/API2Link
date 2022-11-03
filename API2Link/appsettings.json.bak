@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "AppSettings": {
+    "tRQHost": "147.50.143.126",
+    "tRQUsr": "Admin",
+    "tRQPwd": "8BP7tjqg/QpswrUHiwMomA==",
+    "tRQVirtual": "AdaPos5.0CICD_Master",
+    "tRQPort": "5672"
+  }
+}

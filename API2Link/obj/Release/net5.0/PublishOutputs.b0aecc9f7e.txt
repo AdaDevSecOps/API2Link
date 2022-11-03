@@ -1,0 +1,13 @@
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\API2Link.exe
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\API2Link.dll
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\API2Link.deps.json
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\API2Link.runtimeconfig.json
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\API2Link.pdb
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\RabbitMQ.Client.dll
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Team Explorer\SKC\WebServiceCore\API2Link\API2Link\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
