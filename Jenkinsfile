@@ -59,7 +59,7 @@ pipeline
                 echo 'Run Container...'
                 script
                 {
-                    bat 'docker run -d --name api2link api2link:5.20002.0.03 '
+                    bat 'docker run -d -p 8890:80 --name api2link api2link:5.20002.0.03 '
                 }
             }
         }
